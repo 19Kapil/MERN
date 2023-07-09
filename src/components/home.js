@@ -1,6 +1,6 @@
 import { Component } from "react";
 import Header from "./Header";
-import UserData from "./UserData"; 
+import UserData from "./UserData";  
 import RightSideBar from "./RightSideBar";
 import PostSection from "./PostSection";
 
