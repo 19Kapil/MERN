@@ -2,7 +2,7 @@ import { Component } from "react";
 import PostTopBar from "./PostTopBar";
 
 class PostSection extends Component{
-    render(){
+    render(){ 
         return <div className="posts-section">
         <div className="post-bar">
           <PostTopBar/>
