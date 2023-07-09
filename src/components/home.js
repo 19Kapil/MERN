@@ -28,9 +28,10 @@ class Home extends Component{
         href="./index.html#"
         title=""
         >Post a Project</a
-      >
+      >   
     </li>
     <li>
+      
       <a
         className="post-jb active"
         href="./index.html#"
