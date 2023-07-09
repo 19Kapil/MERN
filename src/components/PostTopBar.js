@@ -1,7 +1,7 @@
 import { Component } from "react";
 
 class PostTopBar extends Component{
-  render(){
+  render(){ 
     return <div className="post_topbar">
     <div className="usy-dt">
       <img src="./images/saroj-pic.jpeg" alt="" />
