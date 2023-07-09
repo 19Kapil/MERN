@@ -2,7 +2,7 @@ import { Component } from "react";
 
 class RightSideBar extends Component{
     render(){
-        return <div className="col-lg-3 pd-right-none no-pd">
+        return <div className="col-lg-3 pd-right-none no-pd"> 
         <div className="right-sidebar">
           <div className="widget widget-about" style={{display: "none"}}>
             <img src="./images/lec.png" alt="" />
