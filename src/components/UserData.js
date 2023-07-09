@@ -2,7 +2,7 @@ import { Component } from "react";
 
 class UserData extends Component{
     render(){
-        return <div className="col-lg-3 col-md-4 pd-left-none no-pd">
+        return <div className="col-lg-3 col-md-4 pd-left-none no-pd">  
         <div className="main-left-sidebar no-margin">
           <div className="user-data full-width">
             <div className="user-profile">
